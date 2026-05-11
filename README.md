@@ -6,7 +6,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0078D4&center=true&vCenter=true&width=600&lines=Power+Platform+Solution+Architect+Expert;7%2B+Years+%7C+43%2B+Client+Projects;Microsoft+Certified+Trainer+(MCT);Dynamics+365+%7C+Power+Apps+%7C+Power+BI)](https://git.io/typing-svg)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=netlify&logoColor=white)](https://dainty-elf-eb784a.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prajwal-k-863495125/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prajwalsk53)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prajwalsk53@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/prajwalsk53)
 [![Location](https://img.shields.io/badge/Leicester%2C_UK-📍-blue?style=for-the-badge)](https://maps.google.com/?q=Leicester,UK)
@@ -133,37 +133,45 @@ certifications:
 
 ## 💼 Professional Experience
 
-```
-┌─────────────────────────────────────────────────────────────────────┐
-│                       CAREER TIMELINE                               │
-├──────────────┬──────────────────────────────────────────────────────┤
-│ Oct 25–Apr 26│ 🎓 University of Leicester — Power Platform Developer │
-│              │   Placement Management System (Power Apps + BI)      │
-├──────────────┼──────────────────────────────────────────────────────┤
-│ Jan 24–Aug 25│ 🏢 Deloitte — Solution Architect                     │
-│              │   Client: Mercedes-Benz Germany                      │
-│              │   CPO Bonus Automation · Saved £30K/year             │
-├──────────────┼──────────────────────────────────────────────────────┤
-│ Dec 22–Dec 23│ 🏢 Sony India Software Centre — Technical Specialist  │
-│              │   Global Case Management · Migrated 30M+ records     │
-├──────────────┼──────────────────────────────────────────────────────┤
-│ Jul 21–Dec 22│ 🏢 HCL Technologies — Power Platform Lead Developer  │
-│              │   Client: AstraZeneca UK · Clinical trial tools      │
-├──────────────┼──────────────────────────────────────────────────────┤
-│ Jan 21–Jun 21│ 🏢 KPMG US — Power Platform Developer                │
-│              │   Process Insight · Saved 80+ hours/month            │
-├──────────────┼──────────────────────────────────────────────────────┤
-│ Jul 18–Dec 20│ 🏢 Mindtree — PowerApps Developer                    │
-│              │   Client: Microsoft US & Canada · Audit automation   │
-└──────────────┴──────────────────────────────────────────────────────┘
-```
+**🎓 University of Leicester** — *Power Platform Developer* &nbsp;|&nbsp; `Oct 2025 – Apr 2026`
+> Placement Management System · Role-based Power App · Power BI KPI dashboards · OSRM routing for field visits
+
+---
+
+**🏢 Deloitte** — *Solution Architect* &nbsp;|&nbsp; `Jan 2024 – Aug 2025`
+> Client: Mercedes-Benz (Germany) · D365 CPO Bonus Automation · Replaced 100+ Excel files · **Saved £30K/year**
+
+---
+
+**🏢 Sony India Software Centre** — *Technical Specialist* &nbsp;|&nbsp; `Dec 2022 – Dec 2023`
+> Global Case Management · Model-Driven Power App · **Migrated 30M+ records** via Azure Data Factory · 10+ countries
+
+---
+
+**🏢 HCL Technologies** — *Power Platform Lead Developer* &nbsp;|&nbsp; `Jul 2021 – Dec 2022`
+> Client: AstraZeneca (UK) · Clinical trial tools · SFTP automation · **65% reduction** in manual effort
+
+---
+
+**🏢 KPMG US** — *Power Platform Developer* &nbsp;|&nbsp; `Jan 2021 – Jun 2021`
+> Process Insight Dashboard · Power BI SLA tracking · **Saved 80+ hours/month** in manual reporting
+
+---
+
+**🏢 Mindtree Ltd** — *PowerApps Developer* &nbsp;|&nbsp; `Jul 2018 – Dec 2020`
+> Client: Microsoft (US & Canada) · Audit automation · **50% reduction** in report preparation time
+
+---
 
 ### 📈 Career Highlights
-- 🏆 **£30,000/year** saved at Mercedes-Benz through D365 automation
-- ⚡ **120+ hours/quarter** processing time reduced at Deloitte
-- 📦 **30M+ records** migrated to Dataverse at Sony
-- 📉 **65–80% reduction** in manual effort across multiple projects
-- 🌍 **10+ countries** impacted through global case management system
+
+| Metric | Impact |
+|--------|--------|
+| 💰 Cost Saved | **£30,000/year** at Mercedes-Benz |
+| ⚡ Time Saved | **120+ hours/quarter** at Deloitte |
+| 📦 Data Migrated | **30M+ records** at Sony |
+| 📉 Effort Reduced | **65–80%** across multiple projects |
+| 🌍 Global Reach | **10+ countries** via case management system |
 
 ---
 
@@ -198,7 +206,7 @@ certifications:
 |---|---|
 | 📧 Email | [prajwalsk53@gmail.com](mailto:prajwalsk53@gmail.com) |
 | 📱 Phone | +44 07810638593 |
-| 💼 LinkedIn | [linkedin.com/in/prajwalsk53](https://www.linkedin.com/in/prajwalsk53) |
+| 💼 LinkedIn | [linkedin.com/in/prajwalsk53](https://www.linkedin.com/in/prajwal-k-863495125/) |
 | 🌍 Location | Leicester, LE1 7RH, UK |
 | 🌐 Portfolio | [dainty-elf-eb784a.netlify.app](https://dainty-elf-eb784a.netlify.app/) |
 | 🏥 Live Project | [healthsphere.info/HealthSphere](https://healthsphere.info/HealthSphere) |
