@@ -103,6 +103,25 @@ certifications:
 
 ---
 
+### ⚡ HealthSphere — Power Apps Code App + Azure Functions
+[![HealthSphere PowerApps](https://github-readme-stats.vercel.app/api/pin/?username=prajwalsk53&repo=HealthSphere-PowerApps-Azurefunctions&theme=tokyonight)](https://github.com/prajwalsk53/HealthSphere-PowerApps-Azurefunctions)
+
+> Re-architected the HealthSphere platform onto Microsoft's low-code stack — a 5-role healthcare app running as a **Power Apps Code App** with **Dataverse** as the only datastore and a thin **Azure Functions** bridge for secrets/3rd-party APIs
+
+| Feature | Details |
+|---------|---------|
+| 🧑‍🤝‍🧑 User Roles | Patient · Doctor · Admin · Government · Medical Team/Pharmacy |
+| 🗄️ Data Layer | 32 Dataverse tables via auto-generated typed service clients |
+| 🤖 AI Assistant | Gemini-powered chat with patient context + rule-based fallback |
+| 💳 Payments | Stripe Elements + PaymentIntents for prescriptions |
+| 🗺️ Maps & Analytics | Leaflet/OpenStreetMap facility finder, regional health trend maps |
+| ☁️ Serverless Bridge | Azure Functions (Node v4) for AI, email, payments, blob storage, food/drug lookups |
+| 🔒 Auth | Native Microsoft Entra session via the Power Apps player — no custom auth backend |
+
+**Stack:** `React 19` `Power Apps Code Apps` `Dataverse` `Azure Functions` `Stripe` `Gemini AI` `Leaflet` `FullCalendar`
+
+---
+
 ### 🗳️ MSLR Referendum System — Secure Online Voting Platform
 [![MSLR](https://github-readme-stats.vercel.app/api/pin/?username=prajwalsk53&repo=MSLR-Referendum-System&theme=tokyonight)](https://github.com/prajwalsk53/MSLR-Referendum-System)
 
