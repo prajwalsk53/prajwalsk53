@@ -82,25 +82,6 @@ certifications:
 
 ## 🚀 Featured Projects
 
-### 🏥 HealthSphere — NHS Connected Healthcare Platform
-[![HealthSphere](https://github-readme-stats.vercel.app/api/pin/?username=prajwalsk53&repo=HealthSphere&theme=tokyonight)](https://github.com/prajwalsk53/HealthSphere)
-
-> Full-stack healthcare management system built with PHP, MySQL, AI, and Flutter  
-> Live at **[healthsphere.info](https://healthsphere.info/HealthSphere)**
-
-| Feature | Details |
-|---------|---------|
-| 🧑‍🤝‍🧑 User Roles | Patient · Doctor · Admin · Government Analyst |
-| 🤖 AI Assistant | Google Gemini 2.5 Flash with patient health context |
-| 📊 Health Score | Real-time 0–100 risk score from vitals & wearables |
-| 💊 Medical Records | Prescriptions, lab results, allergies, vaccinations |
-| 🍎 Diet Tracker | Meal logging with Spoonacular nutrition data |
-| 📱 Mobile App | Flutter app (Android/iOS) with JWT REST API |
-| 🚀 CI/CD | GitHub Actions → IONOS auto-deploy on every push |
-| 🛡️ Monitoring | Sentry error tracking + UptimeRobot availability |
-
-**Stack:** `PHP` `MySQL` `Flutter` `Gemini AI` `Spoonacular API` `MedlinePlus` `Cloudflare` `Sentry`
-
 ---
 
 ### ⚡ HealthSphere — Power Apps Code App + Azure Functions
@@ -121,6 +102,7 @@ certifications:
 **Stack:** `React 19` `Power Apps Code Apps` `Dataverse` `Azure Functions` `Stripe` `Gemini AI` `Leaflet` `FullCalendar`
 
 ---
+
 
 ### 🗳️ MSLR Referendum System — Secure Online Voting Platform
 [![MSLR](https://github-readme-stats.vercel.app/api/pin/?username=prajwalsk53&repo=MSLR-Referendum-System&theme=tokyonight)](https://github.com/prajwalsk53/MSLR-Referendum-System)
@@ -147,6 +129,27 @@ certifications:
 - Automated email notifications via Power Automate
 
 **Stack:** `Power Apps` `Dataverse` `Power Automate` `Power BI` `Canvas App`
+
+---
+
+### 🏥 HealthSphere — NHS Connected Healthcare Platform
+[![HealthSphere](https://github-readme-stats.vercel.app/api/pin/?username=prajwalsk53&repo=HealthSphere&theme=tokyonight)](https://github.com/prajwalsk53/HealthSphere)
+
+> Full-stack healthcare management system built with PHP, MySQL, AI, and Flutter  
+> Live at **[healthsphere.info](https://healthsphere.info/HealthSphere)**
+
+| Feature | Details |
+|---------|---------|
+| 🧑‍🤝‍🧑 User Roles | Patient · Doctor · Admin · Government Analyst |
+| 🤖 AI Assistant | Google Gemini 2.5 Flash with patient health context |
+| 📊 Health Score | Real-time 0–100 risk score from vitals & wearables |
+| 💊 Medical Records | Prescriptions, lab results, allergies, vaccinations |
+| 🍎 Diet Tracker | Meal logging with Spoonacular nutrition data |
+| 📱 Mobile App | Flutter app (Android/iOS) with JWT REST API |
+| 🚀 CI/CD | GitHub Actions → IONOS auto-deploy on every push |
+| 🛡️ Monitoring | Sentry error tracking + UptimeRobot availability |
+
+**Stack:** `PHP` `MySQL` `Flutter` `Gemini AI` `Spoonacular API` `MedlinePlus` `Cloudflare` `Sentry`
 
 ---
 
