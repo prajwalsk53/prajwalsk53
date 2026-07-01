@@ -85,7 +85,7 @@ certifications:
 ---
 
 ### ⚡ HealthSphere — Power Apps Code App + Azure Functions
-[![HealthSphere PowerApps](https://github-readme-stats.vercel.app/api/pin/?username=prajwalsk53&repo=HealthSphere-PowerApps-Azurefunctions&theme=tokyonight)](https://github.com/prajwalsk53/HealthSphere-PowerApps-Azurefunctions)
+[![HealthSphere PowerApps](https://github-readme-stats.vercel.app/api/pin/?username=prajwalsk53&repo=HealthSphere-PowerApps-Azurefunction&theme=tokyonight)](https://github.com/prajwalsk53/HealthSphere-PowerApps-Azurefunction)
 
 > Re-architected the HealthSphere platform onto Microsoft's low-code stack — a 5-role healthcare app running as a **Power Apps Code App** with **Dataverse** as the only datastore and a thin **Azure Functions** bridge for secrets/3rd-party APIs
 
